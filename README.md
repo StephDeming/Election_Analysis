@@ -1,5 +1,5 @@
 # Election_Analysis
-*election_analysis.txt is located in the analysis folder
+
 
 ## Project Overview
 Completing the election audit of a Colorado congressional election by:
